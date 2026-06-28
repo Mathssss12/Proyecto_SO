@@ -1,6 +1,6 @@
 # ============================================================
 #  servidor_web.py
-#  Modela un servidor web con capacidad, carga y estado
+#  Modela un servidor web con capacidad, carga y estados
 # ============================================================
 
 from dataclasses import dataclass, field
